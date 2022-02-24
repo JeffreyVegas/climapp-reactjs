@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/climapp-reactjs/static/css/main.ae63c931.chunk.css",
+    "main.js": "/climapp-reactjs/static/js/main.d45cccb1.chunk.js",
+    "main.js.map": "/climapp-reactjs/static/js/main.d45cccb1.chunk.js.map",
+    "runtime-main.js": "/climapp-reactjs/static/js/runtime-main.499b5cc3.js",
+    "runtime-main.js.map": "/climapp-reactjs/static/js/runtime-main.499b5cc3.js.map",
+    "static/js/2.18acbd10.chunk.js": "/climapp-reactjs/static/js/2.18acbd10.chunk.js",
+    "static/js/2.18acbd10.chunk.js.map": "/climapp-reactjs/static/js/2.18acbd10.chunk.js.map",
+    "index.html": "/climapp-reactjs/index.html",
+    "precache-manifest.fb74e22415107e9f2884103bbe926ef7.js": "/climapp-reactjs/precache-manifest.fb74e22415107e9f2884103bbe926ef7.js",
+    "service-worker.js": "/climapp-reactjs/service-worker.js",
+    "static/css/main.ae63c931.chunk.css.map": "/climapp-reactjs/static/css/main.ae63c931.chunk.css.map",
+    "static/js/2.18acbd10.chunk.js.LICENSE.txt": "/climapp-reactjs/static/js/2.18acbd10.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.499b5cc3.js",
+    "static/js/2.18acbd10.chunk.js",
+    "static/css/main.ae63c931.chunk.css",
+    "static/js/main.d45cccb1.chunk.js"
+  ]
+}
