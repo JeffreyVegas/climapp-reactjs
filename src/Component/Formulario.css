@@ -1,0 +1,51 @@
+.Formulario__form {
+  /* margin-top: 40px; */
+  display: flex;
+  flex-direction: column;
+  padding: 30px 10%;
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+}
+.FormClima__title {
+  text-align: center;
+  font-size: 25px;
+  color: #0233cb;
+}
+
+.FomrCLima__input {
+  border-style: none;
+  margin-bottom: 20px;
+  border-bottom: 1px solid #ccc;
+  padding: 5px;
+  outline: none;
+  color: #4cb1f7;
+}
+
+.FormClima__button {
+  margin-top: 30px;
+  border: none;
+  padding: 5px;
+  background-color: #4cb1f7;
+  color: white;
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+  font-size: 16px;
+}
+
+.FormClima__button:focus {
+  outline: none;
+}
+
+label {
+  color: #0233cb;
+}
+
+.FormClima__select {
+  padding: 5px;
+  border: none;
+  border-bottom: 1px solid #ccc;
+  outline: none;
+  color: #4cb1f7;
+}
+
+.FormClima__select option {
+  color: #4cb1f7;
+}

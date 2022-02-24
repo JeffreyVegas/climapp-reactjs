@@ -1,0 +1,17 @@
+.Header__Nav {
+    background-color: #0339A6;
+    box-shadow: 1px 2px 4px rgba(0,0,0,.5);
+    padding: 10px;
+    text-align: center;
+}
+
+.Header__logo {
+    color: white;
+    text-decoration: none;
+    font-size: 30px;
+}
+
+.Header__logo:hover {
+    text-decoration: none;
+    color: white;
+}

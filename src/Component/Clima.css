@@ -1,0 +1,35 @@
+.clima {
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+  /* margin-top: 40px; */
+  padding: 30px 10%;
+}
+
+.clima__title {
+  text-align: center;
+  font-size: 30px;
+  font-weight: 700;
+}
+
+.clima__temp {
+  display: flex;
+  justify-content: center;
+}
+
+.clima__temp span:nth-of-type(1) {
+  font-size: 13px;
+}
+
+.clima__temp span:nth-child(2) {
+  font-size: 50px;
+}
+
+.clima__other-info {
+  text-align: center;
+}
+.clima__other-info p {
+  margin: 0;
+  font-size: 14px;
+}
+.clima__other-info span {
+  font-weight: 500;
+}
